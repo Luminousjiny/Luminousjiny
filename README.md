@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![Luminousjiny's github stats](https://github-readme-stats.vercel.app/api?username=Luminousjiny&show_icons=true)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wlsdk400)](https://solved.ac/Luminousjiny)
+
 
 ### 💻:keyboard: Languages and Tools 
 
